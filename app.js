@@ -1,6 +1,6 @@
 const menuLinks = document.querySelector('.navbar__menu')
 const navLogo = document.querySelector('#navbar__logo')
-//
+
 // Show active menu when scrolling
 
 const highlightMenu = () => {
