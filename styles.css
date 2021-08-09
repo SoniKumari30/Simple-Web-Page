@@ -10,7 +10,7 @@
   background: #ee0b0b;
   height: 80px;
   display: flex;
-  justify-content: center;
+  justify-content: center;//
   align-items: center;
   font-size: 1.2rem;
   position: sticky;
